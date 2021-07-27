@@ -19,7 +19,7 @@ height: 325px;
 }
 
 #home p{
-    font-size: 0.6rem;
+    font-size: 0.7rem;
 }
 
 
@@ -55,7 +55,7 @@ flex-wrap: wrap;
 
 /* Utility Classes */
 .h-primary{
-    font-size: 1.4rem;
+    font-size: 2.5rem;
 }
 .btn{
     font-size: 0.6rem;
